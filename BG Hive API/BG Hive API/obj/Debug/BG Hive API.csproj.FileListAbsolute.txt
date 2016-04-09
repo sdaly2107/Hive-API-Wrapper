@@ -1,0 +1,7 @@
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\bin\Debug\BG Hive API.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\bin\Debug\BG Hive API.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\obj\Debug\BG Hive API.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\obj\Debug\BG Hive API.pdb
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\bin\Debug\RestSharp.dll
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\bin\Debug\RestSharp.xml
+C:\Users\Scott\Documents\Visual Studio 2015\Projects\BG Hive API\BG Hive API\obj\Debug\BG Hive API.csprojResolveAssemblyReference.cache
